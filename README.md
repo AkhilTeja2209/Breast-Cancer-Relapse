@@ -7,7 +7,8 @@ Place the .tsv file and the R file in the same folder and run the R file using R
 
 The sample outputs are also attached in the repository.
 
-# Attaching the inference for more understanding: [BreastCancer_GSE2034_Analysis_final.pdf](https://github.com/user-attachments/files/26942868/BreastCancer_GSE2034_Analysis_final.pdf)
+# Attaching the inference for more understanding: 
+[BreastCancer_GSE2034_Analysis_final.pdf](https://github.com/user-attachments/files/26942868/BreastCancer_GSE2034_Analysis_final.pdf)
 
 # NOTE:
 For a better result, it is recommended that the .tsv file is created by the user itself. Steps to do so:
