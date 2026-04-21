@@ -17,6 +17,6 @@ For a better result, it is recommended that the .tsv file is created by the user
 3. In GEO2R: Define groups (e.g., relapse vs no relapse).
 4. Keep default log2 transform (auto-detect). Use Benjamini & Hochberg for multiple testing correction.
 5. Click “Top 250” or “Analyze”.
-6. Download full results (all genes) as a table (.tsv) <img width="769" height="84" alt="image" src="https://github.com/user-attachments/assets/2a1c899c-125e-46fb-9e74-f0438ddc2115" />
+6. Download full results (all genes) as a table (.tsv).
 
 This .tsv file can replace the given .tsv file in the repository, which only analyses the top 250 values.
