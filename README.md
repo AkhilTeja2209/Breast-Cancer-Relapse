@@ -8,3 +8,15 @@ Place the .tsv file and the R file in the same folder and run the R file using R
 The sample outputs are also attached in the repository.
 
 #Attaching the inference for more understanding: [BreastCancer_GSE2034_Analysis_final.pdf](https://github.com/user-attachments/files/26942868/BreastCancer_GSE2034_Analysis_final.pdf)
+
+#NOTE:
+For a better result, it is recommended that the .tsv file is created by the user itself. Steps to do so:
+
+1. Go to the GEO Series page for GSE2034. (Breast cancer relapse free survival with relapse, brain relapse and no relapse). 
+2. Click “Analyze with GEO2R”.
+3. In GEO2R: Define groups (e.g., relapse vs no relapse).
+4. Keep default log2 transform (auto-detect). Use Benjamini & Hochberg for multiple testing correction.
+5. Click “Top 250” or “Analyze”.
+6. Download full results (all genes) as a table (.tsv) <img width="769" height="84" alt="image" src="https://github.com/user-attachments/assets/2a1c899c-125e-46fb-9e74-f0438ddc2115" />
+
+This .tsv file can replace the given .tsv file in the repository, which only analyses the top 250 values.
