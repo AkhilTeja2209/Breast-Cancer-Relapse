@@ -22,4 +22,6 @@ For a better result, it is recommended that the .tsv file is created by the user
 
 This .tsv file can replace the given .tsv file in the repository, which only analyses the top 250 values.
 
-JanaviPawar
+Contributers
+JanaviPawar, Hardikteotia-jp, Akhilteja2209
+
